@@ -18,7 +18,7 @@
     "cert": "pbiviz --create-cert"
   },
   "dependencies": {
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.4",
     "nouislider": "^8.0.2",
     "powerbi-models": "^0.11.3",
